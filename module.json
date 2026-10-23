@@ -1,0 +1,40 @@
+
+{
+  "id": "rock-coc-unified",
+  "title": "Rock CoC Unified",
+  "description": "Unified entry point for the Rock CoC collection: Books, Equipment, Investigator Setups, Occupations and Additional Skills.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "CoC7",
+        "type": "system",
+        "compatibility": {
+          "minimum": "8.16"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "coc7-universal-books",
+        "type": "module"
+      },
+      {
+        "id": "coc7-universal-equipment",
+        "type": "module"
+      },
+      {
+        "id": "coc7-investigator-setups",
+        "type": "module"
+      },
+      {
+        "id": "coc7-universal-occupations",
+        "type": "module"
+      }
+    ]
+  }
+}
