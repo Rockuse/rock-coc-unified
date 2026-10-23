@@ -2,3 +2,12 @@
 	path = modules/books
 	url = https://github.com/Rockuse/rock-coc-books.git
 	branch = main
+[submodule "modules/equipment"]
+	path = modules/equipment
+	url = https://github.com/Rockuse/rock-coc-equipment.git
+[submodule "modules/occupations"]
+	path = modules/occupations
+	url = https://github.com/Rockuse/rock-coc-occupations.git
+[submodule "modules/investigator"]
+	path = modules/investigator
+	url = https://github.com/Rockuse/rock-coc-investigator.git
