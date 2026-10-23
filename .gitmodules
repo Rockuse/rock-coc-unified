@@ -1,0 +1,4 @@
+[submodule "modules/books"]
+	path = modules/books
+	url = https://github.com/Rockuse/rock-coc-books.git
+	branch = main
